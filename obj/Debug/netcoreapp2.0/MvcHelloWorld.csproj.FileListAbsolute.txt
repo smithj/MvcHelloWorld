@@ -1,0 +1,10 @@
+/home/james/git/MvcHelloWorld/bin/Debug/netcoreapp2.0/MvcHelloWorld.deps.json
+/home/james/git/MvcHelloWorld/bin/Debug/netcoreapp2.0/MvcHelloWorld.runtimeconfig.json
+/home/james/git/MvcHelloWorld/bin/Debug/netcoreapp2.0/MvcHelloWorld.runtimeconfig.dev.json
+/home/james/git/MvcHelloWorld/bin/Debug/netcoreapp2.0/MvcHelloWorld.dll
+/home/james/git/MvcHelloWorld/bin/Debug/netcoreapp2.0/MvcHelloWorld.pdb
+/home/james/git/MvcHelloWorld/obj/Debug/netcoreapp2.0/MvcHelloWorld.csproj.CoreCompileInputs.cache
+/home/james/git/MvcHelloWorld/obj/Debug/netcoreapp2.0/MvcHelloWorld.AssemblyInfoInputs.cache
+/home/james/git/MvcHelloWorld/obj/Debug/netcoreapp2.0/MvcHelloWorld.AssemblyInfo.cs
+/home/james/git/MvcHelloWorld/obj/Debug/netcoreapp2.0/MvcHelloWorld.dll
+/home/james/git/MvcHelloWorld/obj/Debug/netcoreapp2.0/MvcHelloWorld.pdb
